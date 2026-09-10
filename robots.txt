@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://diegohgalvao.github.io/archive-b4d1tv/sitemap.xml
